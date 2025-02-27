@@ -9,16 +9,12 @@
 
 - 📫 How to reach me **lauragonzalezrojas2001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//laura-gonz%c3%a1lez-72b23431a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laura-gonz%c3%a1lez-72b23431a/" height="30" width="40" /></a>
-</p>
 
 ### 🚀 Projects:
 
-- [Project 1](https://github.com/lauglez01/tfc) - Currently working on my integrated project. It's not even near to finished, but hopefully I'll have it finished by the end of May!
+- [Integrated Project](https://github.com/lauglez01/tfc) - Currently working on my integrated project. It's not even near to finished, but hopefully I'll have it finished by the end of May!
 
-- ### 💡 Fun Facts:
+### 💡 Fun Facts:
 
 - I love reading, writing and drawing, so hopefully I can connect all of my hobbies with my work.
 - I would love to know more about AI and implement it into my personal projects.
@@ -30,3 +26,7 @@
 ### 📬 Contact
 
 Feel free to reach out to me via [email](mailto:lauragonzalezrojas2001@gmail.com) for any inquiries or collaboration opportunities!
+
+<p align="left"> You can also visit my LinkedIn for more information about my studies and experience! 
+<a href="https://linkedin.com/in//laura-gonz%c3%a1lez-72b23431a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laura-gonz%c3%a1lez-72b23431a/" height="20" width="30" /></a>
+</p>
